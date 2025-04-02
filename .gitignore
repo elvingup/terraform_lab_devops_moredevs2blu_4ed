@@ -5,6 +5,10 @@
 *.tfstate
 *.tfstate.*
 
+# node and vue
+node_modules
+.venv
+
 # Crash log files
 crash.log
 crash.*.log
